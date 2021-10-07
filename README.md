@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🤔 Who I am:
+
+### I am a full stack developer with over 4 years of software engineering experience. With an undergrad in Computer Science and an ongoing partial undergrad at Berklee College of Music, I am always learning new technologies and mastering new skills. My personal mission is to elegantly blend technology with art and to provide users with a tactile experience that feels innovative and artistically driven for a polished user-experience.
 
 <!--
 **cameronbweston/cameronbweston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
